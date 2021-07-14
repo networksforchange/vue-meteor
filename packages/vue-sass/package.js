@@ -15,7 +15,7 @@ Package.registerBuildPlugin({
     'vue-sass.js',
   ],
   npmDependencies: {
-    'node-sass': '4.12.0',
+    'node-sass': '4.14.1',
     'meteor-project-path': '0.0.3',
   },
 })
